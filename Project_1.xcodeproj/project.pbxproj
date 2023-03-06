@@ -16,6 +16,8 @@
 		C8881C2529A1BC4E006419E1 /* Project_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8881C2429A1BC4E006419E1 /* Project_1Tests.swift */; };
 		C8881C2F29A1BC4E006419E1 /* Project_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8881C2E29A1BC4E006419E1 /* Project_1UITests.swift */; };
 		C8881C3129A1BC4E006419E1 /* Project_1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8881C3029A1BC4E006419E1 /* Project_1UITestsLaunchTests.swift */; };
+		C8881C3E29A85239006419E1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8881C3D29A85239006419E1 /* DetailViewController.swift */; };
+		C8881C4429B2EF36006419E1 /* Details.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8881C4329B2EF36006419E1 /* Details.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		C8881C2A29A1BC4E006419E1 /* Project_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8881C2E29A1BC4E006419E1 /* Project_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_1UITests.swift; sourceTree = "<group>"; };
 		C8881C3029A1BC4E006419E1 /* Project_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C8881C3D29A85239006419E1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		C8881C4329B2EF36006419E1 /* Details.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Details.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +107,11 @@
 				C8881C0F29A1BC4D006419E1 /* SceneDelegate.swift */,
 				C8881C1129A1BC4D006419E1 /* ViewController.swift */,
 				C8881C1329A1BC4D006419E1 /* Main.storyboard */,
+				C8881C3D29A85239006419E1 /* DetailViewController.swift */,
 				C8881C1629A1BC4E006419E1 /* Assets.xcassets */,
 				C8881C1829A1BC4E006419E1 /* LaunchScreen.storyboard */,
 				C8881C1B29A1BC4E006419E1 /* Info.plist */,
+				C8881C4329B2EF36006419E1 /* Details.swift */,
 			);
 			path = Project_1;
 			sourceTree = "<group>";
@@ -259,8 +265,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8881C1229A1BC4D006419E1 /* ViewController.swift in Sources */,
+				C8881C4429B2EF36006419E1 /* Details.swift in Sources */,
 				C8881C0E29A1BC4D006419E1 /* AppDelegate.swift in Sources */,
 				C8881C1029A1BC4D006419E1 /* SceneDelegate.swift in Sources */,
+				C8881C3E29A85239006419E1 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
