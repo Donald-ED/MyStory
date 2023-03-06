@@ -30,9 +30,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-https://user-images.githubusercontent.com/55097668/223025084-df397678-32e5-48c2-8b37-4ce90f580738.mp4
-
-
+![XaqRHzgCVz](https://user-images.githubusercontent.com/55097668/223025983-1c50f917-2314-4eda-9e63-0db2e235b793.gif)
 
 
 GIF created with [Recordit](https://recordit.co/)
