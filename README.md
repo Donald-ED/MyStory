@@ -31,16 +31,12 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/XaqRHzgCVz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with [Recordit](https://recordit.co/)
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had problems with the stack views and constraints
 
 ## License
 
